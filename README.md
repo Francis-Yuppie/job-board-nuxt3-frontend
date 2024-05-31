@@ -1,3 +1,15 @@
+# INFO:
+
+This is a fronend template for job board web app , it uses Django as its backend be sure to download ie clone 
+the Django job board backend from [Backend Repo]( https://github.com/Francis-Yuppie/django_job_board_backend.git)
+
+## Note
+
+This wont run on its own as it fetches data from the backend ie the django job board
+
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
