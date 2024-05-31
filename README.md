@@ -8,7 +8,8 @@ the Django job board backend from [Backend Repo]( https://github.com/Francis-Yup
 This wont run on its own as it fetches data from the backend ie the django job board
 
 
-
+# About app & folders
+---
 
 # Nuxt 3 Minimal Starter
 
